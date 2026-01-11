@@ -1,8 +1,4 @@
-@@ -1,11 +1,45 @@
-## How to Play
 
-1. The game selects a random word
-2. Guess letters one at a time
 3. Each wrong guess adds a body part to the hangman
 4. Win by guessing the word before the hangman is complete
 5. Lose if the hangman is fully drawn (6 wrong guesses)
@@ -50,3 +46,4 @@ when you guesses coweqweqwewqeqweqwewill not be counted when you gives wrong cha
 Hope you enjoy this game. 
 Any modification in this game would be highly appreciated.
 Any modification in this game would be highly eqweqwedwqdq appreciated.
+
