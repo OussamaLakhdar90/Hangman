@@ -3,7 +3,7 @@
 weeqweqweqweqwe
 1. The game selects a random word
 2. Guesswewew leteqweqweqweqweqwqweqweqweqweters one at a time
-3. Each wqweqweeqeronqwewqeqweqweg guess adds a body part to the hangman
+3. Each wqweqweeqeroneqwewqeqweqweg guess adds a body part to the hangman
 4. Win by gueseqweqwewqeqweqwesing the word before the hangman is complete
 5. Loweqse if the hangman is fully drawn (6 wrong guesses)
 weqweqwe
