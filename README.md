@@ -1,14 +1,18 @@
-
-3. Each wrong guess adds a body part to the hangman
-4. Win by guessing the word before the hangman is complete
-5. Lose if the hangman is fully drawn (6 wrong guesses)
-
+@@ -1,11 +1,45 @@
+## How to Play
+weeqweqweqweqwe
+1. The game selects a random word
+2. Guesswewew leteqweqweqweqweqwqweqweqweqweters one at a time
+3. Each wqweqweeqeronqwewqeqweqweg guess adds a body part to the hangman
+4. Win by gueseqweqwewqeqweqwesing the word before the hangman is complete
+5. Loweqse if the hangman is fully drawn (6 wrong guesses)
+weqweqwe
 ## FeaturesWhen you run this python script it will choose a word from the word.txt file.
-it will show you how many characters are there in this word and asks you to enter a character.
-you will get 8 chances to guess a right word.
+it will show you howeqweqwe many characters are there in this word and asks you to enter a character.
+you will gwqeqweetewqqwewqewee 8 chances to guess a right word.
 your chance will be decreamented whenever you guess wrong word.
 # Hangman
-Simple Hangman Game in Python
+Simpleqweqwee Hangman Game in Python
 This is simple hangman game implemented in python.
 it has text file including all the words.
 please make sure to keep all the files in one directory or else it will not work.
@@ -46,4 +50,3 @@ when you guesses coweqweqwewqeqweqwewill not be counted when you gives wrong cha
 Hope you enjoy this game. 
 Any modification in this game would be highly appreciated.
 Any modification in this game would be highly eqweqwedwqdq appreciated.
-
